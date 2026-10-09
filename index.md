@@ -33,7 +33,7 @@ Some of this is health-related information. We have no account system, no server
 
 ## Family sharing
 
-If you create a family in the app and invite someone, the expenses, patients, categories and receipts in your family are shared with the people you invite, through Apple's iCloud sharing. Each person sees and can change the shared information according to the role you give them (Admin, Member or View Only). The people in the family can see each other's names as provided by Apple. You can change roles or remove someone at any time, and members can leave. We are not part of the family and can't see the shared information.
+If you create a family in the app and invite someone, the expenses, patients, categories and receipts in your family are shared with the people you invite, through Apple's iCloud sharing. Each person sees and can change the shared information according to the role you give them (Admin, Can Edit or View Only). The person who creates the family is its Owner. The people in the family can see each other's names as provided by Apple. You can change roles or remove someone at any time, and members can leave. We are not part of the family and can't see the shared information.
 
 ## Permissions the app asks for
 
